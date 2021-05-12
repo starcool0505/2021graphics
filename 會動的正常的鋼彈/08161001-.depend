@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1620785079 source:c:\users\administrator\desktop\08161001-\gundam.cpp
+	<windows.h>
+	<GL\gl.h>
+	<GL\glu.h>
+	<math.h>
+
